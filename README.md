@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hola👋 Mi nombre es Gabriel Pichardo
+### Actualmente estudio la carrera de Ingeniería en sistemas y estoy en el desarrollo Web FrontEnd
 
 <!--
 **xcentt/xcentt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
