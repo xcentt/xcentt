@@ -1,5 +1,6 @@
-# Hola👋 Mi nombre es Gabriel Pichardo
+# ![logo](https://github.com/user-attachments/assets/b5450647-400b-4489-8f7b-e939feeca2ec) Hola, Mi nombre es Gabriel Pichardo👋
 ### Actualmente estudio la carrera de Ingeniería en sistemas y estoy en el desarrollo Web FrontEnd
+
 
 <!--
 **xcentt/xcentt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +12,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
